@@ -1,0 +1,73 @@
+word,level
+pseudotime,medium
+Sarah Teichmann,hard
+Human Cell Atlas,hard
+thymus,medium
+gut,easy
+lung,easy
+lymph node,hard
+heart,easy
+dendritic cell,easy
+macrophage,medium
+B cell,medium
+T cell,medium
+epithelial cell,medium
+RNA velocity,easy
+UMAP,easy
+heterogeneity,hard
+droplet,medium
+doublet,hard
+ATAC-seq,hard
+CITE-seq,hard
+RNA-seq,hard
+TCR,medium
+BCR,medium
+stem cell,hard
+cluster,easy
+Visium,medium
+BBKNN,hard
+MultiMAP,hard
+Milo,medium
+CellPhoneDB,medium
+cell2location,medium
+soup,medium
+JupyterHub,hard
+RNAscope,medium
+integration,hard
+multi-omics,hard
+eQTL,hard
+10X genomics,medium
+CGAP,hard
+CellGenIT,hard
+KNN graph,easy
+bone marrow,easy
+anndata,medium
+scanpy,medium
+Seurat,medium
+Python,medium
+R,hard
+heatmap,medium
+violin plot,easy
+differentiation,hard
+muscle cell,easy
+neuron,easy
+COVID,easy
+blood vessel,easy
+Sanger,medium
+GWAS,hard
+organoid,easy
+perturbation,hard
+CellTypist,hard
+multiplexing,medium
+demultiplexing,medium
+wet lab,medium
+dry lab,medium
+CBTM,hard
+Zoom,medium
+DiNA,hard
+Murrays,hard
+DNA,easy
+RNA,easy
+Postdoc,hard
+PhD student,hard
+pipette,easy
